@@ -40,4 +40,4 @@ exp : <strong> account_id </strong>
 
 #### Constants : upper-cases , words separated by underscores
 
-exp : <strong> THRESHOLD </strong>
+exp : <strong> MIN_APR </strong>
