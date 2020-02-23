@@ -10,7 +10,7 @@ PEP20 : The Zen Of Python
 
 #### Packages : short-lowercase names. Preferably no underscore
 
-exp : <strong>import sklearn , import math , import numpy</strong>
+exp : <strong>import sklearn or import numpy</strong>
 
 ----
 
