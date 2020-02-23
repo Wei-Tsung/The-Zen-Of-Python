@@ -4,7 +4,7 @@ PEP20 : The Zen Of Python
 
 ### PEP8 : Style Guide 
 
-#### naming convention :
+### Naming convention :
 
 ----
 
