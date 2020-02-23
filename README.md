@@ -26,18 +26,18 @@ exp : <strong> BankAccount </strong>
 
 ----
 
-#### Functions : lower-cases , words separated by underscores
+#### Functions : all lower-cases , words separated by underscores
 
 exp : <strong> open_account </strong>
 
 ----
 
-#### Variables : lower-cases , words separated by underscores
+#### Variables : all lower-cases , words separated by underscores
 
 exp : <strong> account_id </strong>
 
 ----
 
-#### Constants : upper-cases , words separated by underscores
+#### Constants : all upper-cases , words separated by underscores
 
 exp : <strong> MIN_APR </strong>
