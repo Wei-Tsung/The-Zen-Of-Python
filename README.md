@@ -29,3 +29,15 @@ exp : <strong> BankAccount </strong>
 #### Functions : lower-cases , words separated by underscores
 
 exp : <strong> open_account </strong>
+
+----
+
+#### Variables : lower-cases , words separated by underscores
+
+exp : <strong> account_id </strong>
+
+----
+
+#### Constants : upper-cases , words separated by underscores
+
+exp : <strong> THRESHOLD </strong>
